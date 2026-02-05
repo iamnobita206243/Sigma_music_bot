@@ -17,6 +17,10 @@ LOG_GROUP_ID = int(os.getenv("LOG_GROUP_ID", None))
 HEROKU_APP_NAME = os.getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = os.getenv("HEROKU_API_KEY")
 
+API_URL = getenv("API_URL", 'https://api.nexgenbots.xyz') #youtube song url
+VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
+API_KEY = getenv("API_KEY", '30DxNexGenBots623cb4')
+
 UPSTREAM_REPO = os.getenv("UPSTREAM_REPO", "https://github.com/iamnobita206243/Sigma_music_bot")
 UPSTREAM_BRANCH = os.getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = os.getenv("GIT_TOKEN", None)
