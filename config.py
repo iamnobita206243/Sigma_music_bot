@@ -22,7 +22,7 @@ UPSTREAM_BRANCH = os.getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/NOBITA_SUPP0RT")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/+Ybl7EeBVeoxiYTJl")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/+wtkHZMKvOERiMzY1")
 INSTAGRAM = os.getenv("INSTAGRAM", "https://instagram.com/i_am_abhay_singh_chauhan")
 YOUTUBE = os.getenv("YOUTUBE", "https://youtube.com")
 GITHUB = os.getenv("GITHUB", "https://github.com/iamnobita09")
